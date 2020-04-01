@@ -9,10 +9,9 @@
     + Types of Dataset (Structured, Semi-Structured, Atypical)
     + Dataset Sources (Kaggle, UCI, Data.gov, ...)
     + How to load dataset (CSV, JSON, EXCEL, ONLINE)
-- 02_Data_Analysis_and_Visualization.ipynb
+- 02_Data_Analysis_and_Visualization_Basics.ipynb
 
     + Analytical model
     + Loading Dataset
     + Exploring Dataset by Using Libraries (psych, Hmisc, skimr)
     + Visualizing Data (plot, correlation matrix, association matrix)
-    + ...
