@@ -1,5 +1,5 @@
 # data-analysis-study
-> Learning how to analyze data using R and Google Colab
+> Learning how to analyze data by using R and Google Colab
 
 ## Table of contents
 
@@ -11,4 +11,8 @@
     + How to load dataset (CSV, JSON, EXCEL, ONLINE)
 - 02_Data_Analysis_and_Visualization.ipynb
 
-    + Writing...
+    + Analytical model
+    + Loading Dataset
+    + Exploring Dataset by Using Libraries (psych, Hmisc, skimr)
+    + Visualizing Data (plot, correlation matrix, association matrix)
+    + ...
