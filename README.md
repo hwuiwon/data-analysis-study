@@ -9,4 +9,6 @@
     + Types of Dataset (Structured, Semi-Structured, Atypical)
     + Dataset Sources (Kaggle, UCI, Data.gov, ...)
     + How to load dataset (CSV, JSON, EXCEL, ONLINE)
-- Writing...
+- 02_Data_Analysis_and_Visualization.ipynb
+
+    + Writing...
