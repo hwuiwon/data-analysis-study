@@ -9,8 +9,10 @@
     - Statistics and Graph
     - DataFrame, CountPlot, DistPlot
     - SubPlots by category
-  + P02_Analyzing_Kaggle_Survey_2017_(2).ipynb
-    - Statistics and Graph
+  + P02_Traffic_Accidents_in_Korea_2018.ipynb
+    - Using dataset from open data portal
+    - Changing encoding of csv files
+    - More visualization of data by plots
     - ...
 - **EX: Extra**
 
